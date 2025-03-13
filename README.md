@@ -1,7 +1,7 @@
 # quiz_app
 
 A new Flutter project.
-Video Demo
+
 [![Watch the video](https://img.youtube.com/vi/uYjlizcMo3Y/0.jpg)](https://www.youtube.com/watch?v=uYjlizcMo3Y)
 
 ## Getting Started
